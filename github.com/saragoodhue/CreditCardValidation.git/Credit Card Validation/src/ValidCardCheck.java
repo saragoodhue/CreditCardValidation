@@ -10,7 +10,7 @@ public class ValidCardCheck
 		public static void main(String[] args) throws IOException
 			{
 			
-				
+				//test
 				int counter = 0;
 				
 				while(numbers.hasNext())
