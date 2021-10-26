@@ -8,6 +8,7 @@ public class ValidCardCheck
 		public static void main(String[] args) throws IOException
 			{
 				fillArray();
+				System.out.println("Practice new branch");
 			}
 		
 		public static void fillArray() throws IOException 
